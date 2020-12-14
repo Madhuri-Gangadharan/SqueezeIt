@@ -1,0 +1,2 @@
+# SqueezeIt
+Using Intelligent systems
